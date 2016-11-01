@@ -1,0 +1,6 @@
+D:\C&C++ samples\Valid Anagram\Valid Anagram\bin\Debug\Valid Anagram.exe.config
+D:\C&C++ samples\Valid Anagram\Valid Anagram\bin\Debug\Valid Anagram.exe
+D:\C&C++ samples\Valid Anagram\Valid Anagram\bin\Debug\Valid Anagram.pdb
+D:\C&C++ samples\Valid Anagram\Valid Anagram\obj\Debug\Valid Anagram.csprojResolveAssemblyReference.cache
+D:\C&C++ samples\Valid Anagram\Valid Anagram\obj\Debug\Valid Anagram.exe
+D:\C&C++ samples\Valid Anagram\Valid Anagram\obj\Debug\Valid Anagram.pdb
